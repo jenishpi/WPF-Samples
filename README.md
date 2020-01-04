@@ -7,5 +7,5 @@ http://www.pdfsharp.net/
 PDF form is created from https://www.pdfescape.com
 
 This repository contains two projects
-1. Created using .Net framwork 4.5
-2. Created using .Net Core 3.0
+1. "CheckPrint.Beta.Net.4.5" Created using .Net framwork 4.5
+2. "CheckPrint.Beta.NetCore3.1/CheckPrint.Beta" Created using .Net Core 3.1
