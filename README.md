@@ -1,5 +1,5 @@
 # WPF-Samples
-Simple WPF Programs.
+Simple WPF Programs. (With .Net Framwork X.x and .Net Core 3.1)
 
 Code has used PDFSharp to read pdf file and fill pdf form
 http://www.pdfsharp.net/
